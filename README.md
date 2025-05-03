@@ -17,3 +17,6 @@ and trends to see the relation and work on it.
 - Attrition is mostly seen in the age group of 26-35.
 - The attrition rate is 16.1% in employees.
 - Employees with salary upto 5K has the most attrition.
+
+# Dashboard preview
+![Screenshot 2025-05-03 182052](https://github.com/user-attachments/assets/56fd5f50-812b-40b6-bc4b-0580d4ff0da7)
